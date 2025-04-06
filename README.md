@@ -7,13 +7,13 @@
 
 - 📫How to reach me: **rohitkc52005@gmail.com**
 
-- 👨‍💻All of my projects are available at: [https://github.com/rohit9kc?tab=repositories](https://github.com/rohit9kc?tab=repositories)
+- 👨‍💻All of my projects are available at:👨‍💻 All of my projects are available at: [**My Projects**](https://github.com/rohit9kc?tab=repositories)
 
 - 🌱I’m currently learning: **Full Stack Development | Building projects using Python, Java, C+**
 
 - 💬Ask me about: **Data analysis | visualizations and making boring numbers fun**
 
-- 📄Know about my experiences: [https://drive.google.com/file/d/1uZ37lbaEma5tnzm89WXjSSSzV99uQzU1/view?usp=sharing](https://drive.google.com/file/d/1uZ37lbaEma5tnzm89WXjSSSzV99uQzU1/view?usp=sharing)
+- 📄Know about my experiences: [**My Resume**](https://drive.google.com/file/d/1uZ37lbaEma5tnzm89WXjSSSzV99uQzU1/view?usp=sharing)
 
 - ⚡Fun fact: **I believe semicolons have feelings too ;_;**
 
