@@ -17,6 +17,13 @@
 
 - ⚡Fun fact: **I believe semicolons have feelings too ;_;**
 
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/rohit9kc/rohit9kc/main/spyxfamily-spy-x-family.gif" width="150" alt="GIF" />
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rohit-kumar-chaudhary-8b0874268/" target="blank">
