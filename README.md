@@ -66,11 +66,24 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit9kc&show_icons=true&locale=en&layout=compact" alt="rohit9kc" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit9kc&show_icons=true&locale=en" alt="rohit9kc" /></p>
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats (Left) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=rohit9kc&theme=algolia&show_icons=true" alt="rohit9kc's GitHub Stats"/>
+    </td>
+    <td>
+      <!-- Top Languages (Right) -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit9kc&layout=compact&theme=dark"/>
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit9kc&" alt="rohit9kc" /></p>
+
+
+
 
 
 
