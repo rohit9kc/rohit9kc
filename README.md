@@ -1,9 +1,18 @@
 <h1 align="center">Hola World, Rohit here ^_^</h1>
 <h3 align="center">A soon-to-be data wizard🧙‍♂️ data science student from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit9kc&label=Profile%20views&color=0e75b6&style=flat" alt="rohit9kc" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rohit9kc&label=Profile%20views&color=0e75b6&style=flat&dummy=1" alt="rohit9kc" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit9kc" alt="rohit9kc" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rohit9kc&theme=onedark&margin-w=15&margin-h=15" alt="rohit9kc" />
+  </a>
+</p>
+
+
+
 
 - 📫How to reach me: **rohitkc52005@gmail.com**
 
