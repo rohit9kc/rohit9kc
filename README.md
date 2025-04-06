@@ -8,12 +8,12 @@
 - 📫How to reach me: **rohitkc52005@gmail.com**
 
 - 👨‍💻All of my projects are available at: [**My Projects**](https://github.com/rohit9kc?tab=repositories)
+  
+- 📄Know about my experiences: [**My Resume**](https://drive.google.com/file/d/1uZ37lbaEma5tnzm89WXjSSSzV99uQzU1/view?usp=sharing)
 
 - 🌱I’m currently learning: **Full Stack Development | Building projects using Python, Java, C+**
 
 - 💬Ask me about: **Data analysis | visualizations and making boring numbers fun**
-
-- 📄Know about my experiences: [**My Resume**](https://drive.google.com/file/d/1uZ37lbaEma5tnzm89WXjSSSzV99uQzU1/view?usp=sharing)
 
 - ⚡Fun fact: **I believe semicolons have feelings too ;_;**
 
@@ -36,6 +36,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
+
+
+![ai-grok](https://github.com/user-attachments/assets/676973d0-0875-4ca0-b733-75a8b7baff9f)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
