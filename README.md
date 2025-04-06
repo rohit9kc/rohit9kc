@@ -33,3 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit9kc&" alt="rohit9kc" /></p>
 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rohit9kc&theme=dark&border_radius=5)
