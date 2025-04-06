@@ -7,7 +7,7 @@
 
 - 📫How to reach me: **rohitkc52005@gmail.com**
 
-- 👨‍💻All of my projects are available at:👨‍💻 All of my projects are available at: [**My Projects**](https://github.com/rohit9kc?tab=repositories)
+- 👨‍💻All of my projects are available at: [**My Projects**](https://github.com/rohit9kc?tab=repositories)
 
 - 🌱I’m currently learning: **Full Stack Development | Building projects using Python, Java, C+**
 
