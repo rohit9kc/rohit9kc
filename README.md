@@ -18,7 +18,7 @@
 
 - 👨‍💻All of my projects are available at: [**My Projects**](https://github.com/rohit9kc?tab=repositories)
   
-- 📄Know about my experiences: [**My Resume**](https://drive.google.com/file/d/1uZ37lbaEma5tnzm89WXjSSSzV99uQzU1/view?usp=sharing)
+- 📄Know about my experiences: [**My Resume**](https://drive.google.com/file/d/1XfK9tktDDGupVmT91uoMvYvSQCgO9wZA/view?usp=sharing)
 
 - 🌱I’m currently learning: **Full Stack Development | Building projects using Python, Java, C+**
 
